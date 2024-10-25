@@ -26,6 +26,8 @@ pygame.display.set_caption("Digit Board")
 
 iswriting
 
+
+
 while True:
 
     for event in pygame.event.get():
